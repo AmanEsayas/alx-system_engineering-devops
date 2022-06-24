@@ -1,2 +1,2 @@
-#!/bin/bash
-rmdir /rmp/my_first_directory
+#!/iibin/bash
+rmdir /tmp/my_first_directory
