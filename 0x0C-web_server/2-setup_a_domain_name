@@ -1,1 +1,21 @@
-amanuelesayas.tech
+{
+   "domainName": "amanuelesayas.tech",
+   "parseCode": 0,
+   "audit": {
+      "createdDate": "2024-07-14 16:17:13 UTC",
+      "updatedDate": "2024-07-14 16:17:13 UTC"
+   },
+   "dataError": "INCOMPLETE_DATA",
+   "registryData": {
+      "domainName": "amanuelesayas.tech",
+      "parseCode": 64,
+      "audit": {
+         "createdDate": "2024-07-14 16:17:13 UTC",
+         "updatedDate": "2024-07-14 16:17:13 UTC"
+      },
+      "dataError": "INCOMPLETE_DATA",
+      "whoisServer": "whois.nic.tech"
+   },
+   "domainAvailability": "UNAVAILABLE",
+   "domainNameExt": ".tech"
+}
