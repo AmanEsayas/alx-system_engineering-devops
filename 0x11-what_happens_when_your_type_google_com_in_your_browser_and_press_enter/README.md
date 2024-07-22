@@ -1,0 +1,1 @@
+this is a project trying to explain what happens when we type a web adress and hit enter. I will try to make it easy so that any lay man would understand the concept.
