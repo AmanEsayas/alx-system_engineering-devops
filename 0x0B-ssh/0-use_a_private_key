@@ -2,4 +2,4 @@
 # Bash script that uses ssh to connect to a server
 # private key ~/.ssh/school; user ubuntu; host IP given as 100.25.140.89
 
-ssh -i ~/.ssh/school ubuntu@18.209.180.160
+ssh -i ~/.ssh/school ubuntu@18.209.180.160ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDfMxNQmzIly+CYum+wd7uC+JqEPuzL2Hz8kZ9wEwVxjRcpce0Kx8GQk22t27l/Ru+YNTdD1BezDySlzCM6wj4ma+wqag6jCumXHTbCnVTW0zTgNeG/r8Ok5nr1emfGx3t3YL9Ftf3RWi91ZltKJKbKlDEgc1vQ5MgkRrUSAOV9bJgvTgF6+F73t/9FGbyf/lRDZz0hTeWBmbFb3SJdgLi08QQWcqU5uQYSpSu0HMOuj72bTndevTwwqVqBVI/AUmJgzw7lah12McbAc+w/6kYNUnzRZ1vesOjNaoskJdYPebSxVVnL8VRXsOHr0KSCE0gcVl+0zeILEa0ZK//aTSebQZCK3EJDTZ+G1Hg65AgbmmfDrgWTs9Gt1THO5D2zFTNp41Y9uHl03m15JcaL810jqn5hhuNEZV6IL2jIdrYFzxxB+05dWjVTX525Qf45if+elIuvmA9lBusy1sDFWsszydPvNDHQm/bzUuM9LytAfHNGcd2wI0cl77zH8l8mviM= root@04c7a2190922
